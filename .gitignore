@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#my Gmaps api key
+config.py
+
+#ignore csv files
+*.csv
